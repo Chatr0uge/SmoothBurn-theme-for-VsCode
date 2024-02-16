@@ -1,0 +1,69 @@
+{
+  "name": "smoothburn",
+  "displayName": "SmoothBurn",
+  "description": "Smooth Burn is a dynamic and vibrant Visual Studio Code theme designed to ignite your coding experience with its warm and energetic color palette. Inspired by the intensity of a glowing ember, Smooth Burn infuses your editor with a sense of sophistication and vitality.",
+  "version": "0.0.1",
+  "author": "Andrea Combette",
+  "publisher": "AndreaCombette",
+  "icon": "images/icon.png",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "homepage": "https://github.com/Chatr0uge/smoothburn-theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Chatr0uge/smoothburn-theme.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Smooth_Burn Dark Medium",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Smooth_Burn-dark-medium.json"
+      },
+      {
+        "label": "Smooth_Burn Dark Hard",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Smooth_Burn-dark-hard.json"
+      },
+      {
+        "label": "Smooth_Burn Dark Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Smooth_Burn-dark-soft.json"
+      },
+      {
+        "label": "Smooth_Burn Light Medium",
+        "uiTheme": "vs",
+        "path": "./themes/Smooth_Burn-light-medium.json"
+      },
+      {
+        "label": "Smooth_Burn Light Hard",
+        "uiTheme": "vs",
+        "path": "./themes/Smooth_Burn-light-hard.json"
+      },
+      {
+        "label": "Smooth_Burn Light Soft",
+        "uiTheme": "vs",
+        "path": "./themes/Smooth_Burn-light-soft.json"
+      },
+      {
+        "label": "Smooth_Burn Deep Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Smooth_Burn-deep-dark.json"
+      }
+    ]
+  },
+  "private": false,
+  "__metadata": {
+    "publisherDisplayName": "AndreaCombette",
+    "targetPlatform": "undefined",
+    "isApplicationScoped": false,
+    "updated": true,
+    "isPreReleaseVersion": false,
+    "pinned": false,
+    "preRelease": false
+  }
+}
