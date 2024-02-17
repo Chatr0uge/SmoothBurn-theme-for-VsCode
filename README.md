@@ -16,7 +16,7 @@ The **Hard** | **Medium** | **Soft** variants, which were computed using the Smo
 
 The color palette has been computed on the former image using K-MEANS Bisecting algorithm. A python package is in preparation.
 
-![ColorPalette](./images/4_palette.png)
+![ColorPalette](https://raw.githubusercontent.com/Chatr0uge/SmoothBurn-theme-for-VsCode/main/images/4_palette.png)
 
 ## Preview
 
