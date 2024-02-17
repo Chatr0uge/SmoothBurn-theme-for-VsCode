@@ -17,12 +17,12 @@ The color palette has been computed on the former image using K-MEANS Bisecting 
 
 ## Preview
 
-| Language | Light Theme                     | Dark Theme                    |
-| -------- | ------------------------------- | ----------------------------- |
-| Soft     | ![Light](/images/testjsl.png)   | ![Dark](/images/testjs.png)   |
-| Medium   | ![Light](/images/testpyl.png)   | ![Dark](/images/testpy.png)   |
-| Hard     | ![Light](/images/testhtmll.png) | ![Dark](/images/testhtml.png) |
-| Deep     | SOON                            | ![Dark](/images/testcss.png)  |
+| Language | Light Theme                        | Dark Theme                       |
+| -------- | ---------------------------------- | -------------------------------- |
+| Soft     | ![Light](/images/light-soft.png)   | ![Dark](/images/dark-soft.png)   |
+| Medium   | ![Light](/images/light-medium.png) | ![Dark](/images/dark-medium.png) |
+| Hard     | ![Light](/images/light-hard.png)   | ![Dark](/images/dark-hard.png)   |
+| Deep     | SOON                               | ![Dark](/images/dark-deep.png)   |
 
 ## Feedback
 
