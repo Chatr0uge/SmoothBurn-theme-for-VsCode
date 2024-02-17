@@ -6,7 +6,7 @@ Smooth Burn is a dynamic and vibrant Visual Studio Code theme designed to ignite
 
 The Theme include Three variants for each dark | color theme :
 
-The **Hard** | **Medium** | **Soft** variants, which were computed using the VIM Harry Hopkinson theme.
+The **Hard** | **Medium** | **Soft** variants, which were computed using the Smooth Burn Harry Hopkinson theme.
 ~
 
 ## Color Palette
