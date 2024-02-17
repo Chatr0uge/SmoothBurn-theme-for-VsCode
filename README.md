@@ -17,12 +17,12 @@ The color palette has been computed on the former image using K-MEANS Bisecting 
 
 ## Preview
 
-| Language | Light Theme                        | Dark Theme                       |
-| -------- | ---------------------------------- | -------------------------------- |
-| Soft     | ![Light](/images/light-soft.png)   | ![Dark](/images/dark-soft.png)   |
-| Medium   | ![Light](/images/light-medium.png) | ![Dark](/images/dark-medium.png) |
-| Hard     | ![Light](/images/light-hard.png)   | ![Dark](/images/dark-hard.png)   |
-| Deep     | SOON                               | ![Dark](/images/dark-deep.png)   |
+| Variation | Light Theme                                                                                          | Dark Theme                                                                                         |
+| --------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| Soft      | ![Light](https://github.com/Chatr0uge/SmoothBurn-theme-for-VsCode/blob/main/images/light-soft.png)   | ![Dark](https://github.com/Chatr0uge/SmoothBurn-theme-for-VsCode/blob/main/images/dark-soft.png)   |
+| Medium    | ![Light](https://github.com/Chatr0uge/SmoothBurn-theme-for-VsCode/blob/main/images/light-medium.png) | ![Dark](https://github.com/Chatr0uge/SmoothBurn-theme-for-VsCode/blob/main/images/dark-medium.png) |
+| Hard      | ![Light](https://github.com/Chatr0uge/SmoothBurn-theme-for-VsCode/blob/main/images/light-hard.png)   | ![Dark](https://github.com/Chatr0uge/SmoothBurn-theme-for-VsCode/blob/main/images/dark-hard.png)   |
+| Deep      | SOON                                                                                                 | ![Dark](https://github.com/Chatr0uge/SmoothBurn-theme-for-VsCode/blob/main/images/dark-deep.png)   |
 
 ## Feedback
 
